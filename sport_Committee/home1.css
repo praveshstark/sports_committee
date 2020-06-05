@@ -1,0 +1,202 @@
+body{
+  background: black;
+}
+.home{
+  background: black;
+    background-image:url('screen-21.jpg');
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+    background-repeat:repeat;
+     background-attachment: fixed;
+    background-size:100% 100%;
+}
+.all{
+  background: black;
+}
+.hed{
+  font-size: 20px;
+
+  margin-left: 60px;
+}
+#n{
+  font-weight: 800;
+  font-size: 30px;
+}
+  #home{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  #ventura{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  #league{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  #about{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  #contact{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  #pic{
+    float: left;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: -10px;
+  }
+
+  h1{
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    margin-left:300px;
+
+
+
+  }
+  #hh{
+      margin-top: 20px;
+      color: white;
+      margin-left:300px;
+      text-align: justify;
+      width:45%;
+      font-size: 17px;
+  }
+  #hh1{
+      color: white;
+      margin-left:300px;
+      text-align: justify;
+      text-align: justify;
+      width:45%;
+      font-size: 17px;
+}
+#con{
+
+   margin-right: 50px;
+   margin-top: 50px;
+   margin-left:280px;
+}
+
+@media (max-width: 768px) {
+
+    #pic{
+
+      width: 120px;
+      height: 120px;
+
+  }
+  #n{
+
+    font-size: 20px;
+  }
+  #home{
+    margin-left: -50px;
+    font-weight: normal;
+  }
+  #ventura{
+    margin-left: -50px;
+    font-weight:normal;
+    font-size: 17px;
+  }
+  #league{
+    margin-left: -50px;
+    font-weight: normal;
+    }
+  #about{
+    margin-left: -50px;
+    font-weight:normal;
+  }
+  #contact{
+    margin-left: -50px;
+    font-weight: normal;
+  }
+  h1{
+    font-size: 30px;
+    margin-left: -10px;
+  }
+ #hh{
+   margin-left: -10px;
+   width:100%;
+
+ }
+ #hh1{
+   margin-left: -10px;
+  width: 100%;
+ }
+ #con{
+
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-left:-20px;
+ }
+
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+  #pic{
+
+    width: 150px;
+    height: 150px;
+
+}
+#n{
+
+  font-size: 35px;
+}
+#home{
+  margin-left: -50px;
+  font-weight: bold;
+}
+#ventura{
+  margin-left: -50px;
+  font-weight:bold;
+  font-size: 17px;
+}
+#league{
+  margin-left: -50px;
+  font-weight: bold;
+  }
+#about{
+  margin-left: -50px;
+  font-weight:bold;
+}
+#contact{
+  margin-left: -50px;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 40px;
+  margin-left: 170px;
+}
+#hh{
+    font-size: 17px;
+    margin-top: 40px;
+    margin-left: 170px;
+    text-align: justify;
+    width:70%;
+}
+#hh1{
+    font-size: 17px;
+    margin-top: 40px;
+    margin-left: 170px;
+    text-align: justify;
+    width: 70%;
+
+}
+#con{
+
+  margin-right: 50px;
+  margin-top: 40px;
+  margin-left: 158px;
+}
+
+
+  }

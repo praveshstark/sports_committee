@@ -1,0 +1,167 @@
+body{
+  background: black  ;
+
+
+}
+.home{
+  background: black;
+    background-image:url('screen-21.jpg');
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+    background-repeat:repeat;
+     background-attachment: fixed;
+    background-size:100% 100%;
+}
+
+.bgim{
+    background: black;
+}
+#pic{
+  float: left;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: -10px;
+}
+#contain{
+
+  text-align: justify;
+  position: fixed;
+  bottom: 150;
+  right: 500;
+  width: 600px;
+
+
+}
+h1{
+  color: white;
+  font-weight: 900;
+  font-size: 50px;
+
+
+}
+#hh{
+  margin-top: 20px;
+  color: white;
+}
+#hh1{
+  color: white;
+
+
+}
+.about{
+  background: black;
+    background-image:url('screen-20.jpg');
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
+    background-repeat:repeat;
+     background-attachment: fixed;
+
+
+}
+.abt{
+  background-color: black;
+}
+.logo{
+   margin-left: 300px;
+   margin-top: 50px;
+   width: 800px;
+   font-size: 20px
+}
+.j{
+  margin-bottom: -40px;
+  color:white;
+
+}
+.display-4{
+  color: white;
+font-weight: bold;
+}
+.col {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row{
+
+  margin-top: 80px;
+  margin-left: 250px;
+  color: white;
+}
+
+#lok{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-width:thick;
+  border-color: white;
+}
+h5{
+   margin-left: 30px;
+}
+#champion{
+  color:white;
+  font-weight: bold;
+}
+#pic1{
+  float: left;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: -10px;
+}
+#n{
+  font-weight: 800;
+  font-size: 30px;
+}
+#n1{
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.jum{
+
+  margin-left: 300px;
+}
+#home{
+  margin-left: 30px;
+  font-weight: bold;
+
+}
+#ventura{
+  margin-left: 30px;
+  font-weight: bold;
+}
+#league{
+  margin-left: 30px;
+  font-weight: bold;
+}
+#about{
+  margin-left: 30px;
+  font-weight: bold;
+}
+#contact{
+  margin-left: 30px;
+  font-weight: bold;
+
+
+}
+#con{
+  margin-right: 50px;
+  margin-top: 50px;
+}
+#mar{
+    font-size: 20px;
+    font-weight:bold;
+     width: 100%;
+     padding: 20px;
+     background-color: white;
+     color: #7D0D0B  ;
+   }
+
+@media screen and (min-width:1024px) {
+
+
+}
